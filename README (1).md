@@ -3,7 +3,7 @@
 <div align="center">
 
   <img
-    src="2xQy2F6ywHeOJvNn8idQ4I_WH_AJGg-6Vfx8bcfUxESVcourrgYuv974qolsK2ppTX3rKjBC50WZPACRaebhhlj5b91c-FpxvZnv-cidS2VAkkOY_4y1aDNsWc2UlCyngpRGqKgbOUlka7LiRiEs9WiiLQ_v8ZfyQxGXkfxolKgKxm2tBf0lPqx1TBWMWqE7.jpg"
+    src="83a2cb7a-e11a-4f70-a3dd-a93e93d2acef.png"
     alt="Mohammed Abu Salah | Futuristic AI"
     width="100%"
   />
