@@ -1,219 +1,106 @@
 
-<div align="center">
+<!-- Mohammed Baker Abu Salah | Luxury Black × Futuristic AI --> <div align="center"> <img src="./ai-banner.png" width="100%" alt="Mohammed Abu Salah | AI Engineering and Data Analytics" />
 
-<img src="83a2cb7a-e11a-4f70-a3dd-a93e93d2acef.png"/>
 
-<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+Engineering+%7C+Data+Analytics;Machine+Learning+%7C+Deep+Learning;Building+Intelligent+Solutions;Turning+Curiosity+Into+Code" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=820&lines=AI+Engineering+%7C+Data+Analytics;Machine+Learning+%7C+Intelligent+Systems;Learning.+Building.+Improving.;Turning+Curiosity+Into+Code" alt="AI Engineering and Data Analytics" />
 
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=mo7baker&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-0A66C2?style=for-the-badge&labelColor=0D1117"/>
+<a href="https://github.com/mo7baker"><img src="https://img.shields.io/badge/GitHub-mo7baker-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20DATA-2563EB?style=for-the-badge&labelColor=0D1117" alt="AI and Data focus" />
+<img src="https://komarev.com/ghpvc/?username=mo7baker&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge" alt="Profile views" />
 
 </div>
+🧠 About Me
+<table> <tr> <td width="60%" valign="top"> <pre><code> const mohammed = { name: "Mohammed Baker Abu Salah", username: "mo7baker", location: "Palestine 🇵🇸", interests: [ "Artificial Intelligence", "Data Analytics", "Intelligent Systems", "Creative Technology" ], currentlyLearning: [ "Java", "Python", "Git", "Programming Fundamentals" ], exploringNext: [ "Machine Learning", "Deep Learning", "Computer Vision", "NLP", "AI Agents" ], creativeSide: [ "Photography", "Graphic Design", "Visual Storytelling" ], mindset: "Learn deeply. Build boldly." }; </code></pre> </td> <td width="40%" valign="top">
+Hello, World! 👋
+I'm Mohammed, an aspiring AI engineer and data enthusiast with a passion for solving meaningful problems through code.
 
----
+I enjoy the intersection of technology, analytical thinking and visual creativity.
 
-## 🧠 About Me
+Right now, I am building my foundations and working toward real-world AI projects—one step at a time.
 
-```javascript
-const mohammed = {
-  name: "Mohammed Baker Abu Salah",
-  github: "mo7baker",
-  location: "Palestine 🇵🇸",
+Curiosity is the beginning of every breakthrough.
 
-  passion: [
-    "Artificial Intelligence",
-    "Data Science",
-    "Intelligent Systems",
-    "Creative Technology"
-  ],
-
-  currentlyLearning: [
-    "Java",
-    "Python",
-    "Programming Fundamentals"
-  ],
-
-  exploring: [
-    "Machine Learning",
-    "Deep Learning",
-    "Neural Networks",
-    "Data Analytics",
-    "Computer Vision",
-    "Natural Language Processing",
-    "AI Agents"
-  ],
-
-  creativeSide: [
-    "Photography",
-    "Graphic Design",
-    "Visual Storytelling"
-  ],
-
-  mission:
-    "Transform ideas and data into intelligent solutions.",
-
-  mindset:
-    "Stay curious. Keep learning. Build the future."
-};
-```
-
----
-
-## ⚡ Tech Stack & Learning Roadmap
-
+</td> </tr> </table>
+⚡ Tech Stack & Learning Journey
 <div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css&perline=8"/>
-
-### 🤖 Artificial Intelligence & Data Science
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&perline=8"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-### 🛠️ Tools & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,linux,docker,mysql,postgres&perline=9"/>
-
-### 🎨 Photography & Creative Design
-
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&perline=7"/>
-
-<br/>
-
-*Technologies shown represent my current learning and future development roadmap.*
+🔷 Currently Learning
+<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,idea&perline=6" alt="Current learning tools" />
+💻 Programming Languages — Roadmap
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,mysql&perline=9" alt="Programming language roadmap" />
+🤖 AI & Data Science — Roadmap
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&perline=7" alt="AI tool roadmap" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+🛠️ Developer Tools — Roadmap
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,pycharm,postgres&perline=8" alt="Developer tools roadmap" />
+🎨 Photography & Creative Design
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&perline=5" alt="Creative tools" />
+<sub>Transparency: These technologies include tools I'm learning now and tools on my future roadmap. This is not a claim of professional mastery.</sub>
 
 </div>
+🚀 What I'm Exploring
+<table> <tr> <td width="50%" valign="top">
+🧠 Artificial Intelligence
+Machine Learning & Deep Learning
+Neural Networks
+Generative AI & AI Agents
+Computer Vision
+Natural Language Processing
+</td> <td width="50%" valign="top">
+📊 Data Science & Analytics
+Data Cleaning & Exploration
+Data Visualization
+Statistics & Probability
+Predictive Modeling
+Data-Driven Decision Making
+</td> </tr> <tr> <td width="50%" valign="top">
+⚙️ Engineering Foundations
+Algorithms & Data Structures
+Object-Oriented Programming
+Mathematical Thinking
+Software Design
+Version Control
+</td> <td width="50%" valign="top">
+🎨 Creative Technology
+Photography
+Graphic Design
+Digital Visual Storytelling
+UI/UX Exploration
+Creative Coding
+</td> </tr> </table>
+🧪 My Building Roadmap
+The projects below are planned learning milestones, not completed work yet.
 
----
+Stage	Project direction	Skills developed
+01	Java & Python mini-projects	Fundamentals, OOP, problem solving
+02	Data analysis notebook	Python, Pandas, visualization
+03	First predictive model	Statistics, scikit-learn, evaluation
+04	Computer vision experiment	OpenCV, image processing
+05	Practical AI assistant	APIs, RAG, responsible AI
+<div align="center"> <a href="https://github.com/mo7baker?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a> </div>
+📊 GitHub Analytics
+<!-- These SVG files are generated by .github/workflows/profile-summary.yml --> <!-- After uploading the workflow, run it once from the Actions tab. --> <div align="center"> <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Contribution details" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Languages by repository" /> <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Languages by commit" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" /> <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" /> </div>
+<sub>Live cards reflect my actual GitHub activity and public repositories. New accounts may initially have limited data.</sub>
 
-## 🚀 Fields I'm Exploring
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 AI Engineering
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Generative AI
-- AI Agents
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Data Science
-
-- Data Analytics
-- Data Visualization
-- Predictive Modeling
-- Statistics
-- Data Processing
-- Data-Driven Solutions
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Software Development
-
-- Programming Fundamentals
-- Object-Oriented Programming
-- Data Structures
-- Algorithms
-- Software Engineering
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Creative Technology
-
-- Photography
-- Graphic Design
-- Digital Art
-- Visual Storytelling
-- UI/UX Design
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
+🌐 Connect With Me
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mo7baker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7baker&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=mo7baker&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+<a href="https://github.com/mo7baker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/mohammed-baker-abu-salah-07ba92412"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/mo7baker/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
-
----
-
-## 🏆 GitHub Achievements
-
 <div align="center">
+💎 Philosophy
+The future isn't something we wait for. It's something we build.
 
-<img src="https://github-profile-trophy.vercel.app/?username=mo7baker&theme=algolia&no-frame=true&no-bg=true&margin-w=10" width="100%"/>
+<sub>Designed with intention · Built with curiosity · Mohammed Baker Abu Salah</sub>
 
-</div>
 
----
 
-## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/mo7baker">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohammed-baker-abu-salah-07ba92412">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/mo7baker/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💎 My Philosophy
-
-**"The future is not something we wait for. It is something we build."**
-
-<br/>
-
-<sub>Crafted with passion by Mohammed Baker Abu Salah</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0A3B75,100:2563EB&height=110&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:12346A,100:2563EB&height=110&section=footer" width="100%" alt="Footer decoration" /> </div>
+⋮⋮⋮⋮
