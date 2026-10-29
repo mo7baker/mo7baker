@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/ai-banner.png" width="100%" alt="Mohammed Abu Salah | AI Engineering & Data Analytics"/>
+<img src="83a2cb7a-e11a-4f70-a3dd-a93e93d2acef.png"/>
 
 <br/><br/>
 
