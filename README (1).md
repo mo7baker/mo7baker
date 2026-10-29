@@ -1,6 +1,14 @@
-<!-- Mohammed Abu Salah | Futuristic AI GitHub Profile README -->
-<!-- SETUP: Upload the user's neural-network image as assets/futuristic-ai-banner.jpg -->
+<!-- Mohammed Abu Salah | Futuristic AI GitHub Profile -->
+
 <div align="center">
+
+  <img
+    src="2xQy2F6ywHeOJvNn8idQ4I_WH_AJGg-6Vfx8bcfUxESVcourrgYuv974qolsK2ppTX3rKjBC50WZPACRaebhhlj5b91c-FpxvZnv-cidS2VAkkOY_4y1aDNsWc2UlCyngpRGqKgbOUlka7LiRiEs9WiiLQ_v8ZfyQxGXkfxolKgKxm2tBf0lPqx1TBWMWqE7.jpg"
+    alt="Mohammed Abu Salah | Futuristic AI"
+    width="100%"
+  />
+
+</div>
 
 <img src="assets/futuristic-ai-banner.jpg" alt="Futuristic blue neural network banner" width="100%" />
 
