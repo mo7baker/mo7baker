@@ -1,130 +1,158 @@
-<!-- Mohammed Abu Salah | Futuristic AI GitHub Profile -->
 
 <div align="center">
 
-  <img
-    src="83a2cb7a-e11a-4f70-a3dd-a93e93d2acef.png"
-    alt="Mohammed Abu Salah | Futuristic AI"
-    width="100%"
-  />
+<img src="./assets/ai-banner.png" width="100%" alt="Mohammed Abu Salah | AI Engineering & Data Analytics"/>
 
-</div>
+<br/><br/>
 
-<img src="assets/futuristic-ai-banner.jpg" alt="Futuristic blue neural network banner" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+Engineering+%7C+Data+Analytics;Machine+Learning+%7C+Deep+Learning;Building+Intelligent+Solutions;Turning+Curiosity+Into+Code" alt="Animated introduction"/>
 
-<h1>MOHAMMED BAKER ABU SALAH</h1>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineering+Student;University+of+Palestine+%7C+Started+2026;Learning+Java+%2B+Python;Turning+Curiosity+Into+Code" alt="Animated introduction" />
+<img src="https://komarev.com/ghpvc/?username=mo7baker&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge"/>
 
-### Building my foundations. One line of code at a time. ⚡
-
-![Profile views](https://komarev.com/ghpvc/?username=mo7baker&label=Profile%20Views&color=17436c&style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-083F66?style=for-the-badge&logo=openai&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-0B7285?style=for-the-badge)
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-0A66C2?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
 ```javascript
 const mohammed = {
-  fullName: "Mohammed Baker Abu Salah",
-  github: "@mo7baker",
-  location: "Palestine",
-  university: "University of Palestine",
-  major: "Artificial Intelligence Engineering",
-  year: "First-year student (started 2026)",
-  identity: ["Aspiring AI Engineer", "Photography & Visual Design Enthusiast"],
-  currentlyLearning: ["Java", "Python basics", "Calculus", "Physics"],
-  programmingRoadmap: ["Python", "Java", "C++", "SQL", "JavaScript", "TypeScript", "R", "Bash"],
-  webFoundations: ["HTML", "CSS"],
-  aiRoadmap: ["Data Structures", "Machine Learning", "Deep Learning", "AI Agents"],
-  creativeInterests: ["Photography", "Photo Editing", "Graphic Design", "Visual Storytelling"],
-  mission: "Combine engineering, creativity, and responsible AI to build meaningful solutions"
+  name: "Mohammed Baker Abu Salah",
+  github: "mo7baker",
+  location: "Palestine 🇵🇸",
+
+  passion: [
+    "Artificial Intelligence",
+    "Data Science",
+    "Intelligent Systems",
+    "Creative Technology"
+  ],
+
+  currentlyLearning: [
+    "Java",
+    "Python",
+    "Programming Fundamentals"
+  ],
+
+  exploring: [
+    "Machine Learning",
+    "Deep Learning",
+    "Neural Networks",
+    "Data Analytics",
+    "Computer Vision",
+    "Natural Language Processing",
+    "AI Agents"
+  ],
+
+  creativeSide: [
+    "Photography",
+    "Graphic Design",
+    "Visual Storytelling"
+  ],
+
+  mission:
+    "Transform ideas and data into intelligent solutions.",
+
+  mindset:
+    "Stay curious. Keep learning. Build the future."
 };
 ```
 
-Hi, I'm **Mohammed Baker Abu Salah** — a first-year **Artificial Intelligence Engineering student** at the **University of Palestine** (2026). I'm at the beginning of my journey in software development, mathematics, and intelligent systems, with a long-term ambition to become a highly skilled AI engineer.
+---
 
-Alongside technology, I'm passionate about **photography, photo editing, graphic design, and cinematic visual storytelling**. I love the intersection of code and creativity: turning ideas into both useful systems and compelling visuals.
+## ⚡ Tech Stack & Learning Roadmap
 
-I am learning step by step, sharing progress honestly, and building a portfolio of real work as I grow.
+<div align="center">
 
-> *Curiosity → Practice → Projects → Progress.*
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css&perline=8"/>
+
+### 🤖 Artificial Intelligence & Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&perline=8"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+### 🛠️ Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,linux,docker,mysql,postgres&perline=9"/>
+
+### 🎨 Photography & Creative Design
+
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&perline=7"/>
+
+<br/>
+
+*Technologies shown represent my current learning and future development roadmap.*
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Fields I'm Exploring
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-baker-abu-salah-07ba92412)
-[![Instagram](https://img.shields.io/badge/Instagram-8B3E78?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mo7baker/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1ADmTpYC43/)
-[![GitHub](https://img.shields.io/badge/GitHub-141A29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mo7baker)
+### 🧠 AI Engineering
 
-</div>
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Generative AI
+- AI Agents
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Stack & Learning Path
+### 📊 Data Science
 
-### 🌱 Currently learning
+- Data Analytics
+- Data Visualization
+- Predictive Modeling
+- Statistics
+- Data Processing
+- Data-Driven Solutions
 
-These are subjects I am studying as a beginner, **not professional-level skills**.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### ⚙️ Software Development
 
-![Currently learning](https://skillicons.dev/icons?i=java,python,git,github,vscode&theme=dark)
+- Programming Fundamentals
+- Object-Oriented Programming
+- Data Structures
+- Algorithms
+- Software Engineering
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-| Area | Current focus |
-|:--|:--|
-| Programming | Java fundamentals and introductory Python |
-| Mathematics | Calculus and foundations for future AI coursework |
-| Engineering | Engineering physics and problem solving |
-| Development workflow | Git, GitHub, VS Code |
-| AI | Introductory concepts; deeper ML topics are future goals |
+### 🎨 Creative Technology
 
-### 🚀 Programming languages on my roadmap
+- Photography
+- Graphic Design
+- Digital Art
+- Visual Storytelling
+- UI/UX Design
 
-I am **not claiming proficiency in every language below**. This is a long-term learning roadmap, and I will prioritize the languages relevant to each project.
-
-<div align="center">
-
-![Programming language roadmap](https://skillicons.dev/icons?i=python,java,cpp,js,ts,r,html,css,bash&theme=dark)
-
-</div>
-
-| Language / Technology | Why I want to learn it | Stage |
-|:--|:--|:--|
-| **Java** | University programming and object-oriented fundamentals | Learning now |
-| **Python** | Scripting, data analysis and future AI / ML projects | Beginner |
-| **SQL** | Querying and working with databases | Planned |
-| **C++** | Algorithms, performance and deeper computer science | Planned |
-| **JavaScript & TypeScript** | Interactive web apps and AI-powered interfaces | Planned |
-| **HTML & CSS** | Web structure and styling *(markup and styling, not programming languages)* | Planned |
-| **R** | Statistics and data analysis when useful | Optional / later |
-| **Bash** | Developer workflows and automation | Planned |
-
-### 🤖 AI & engineering roadmap
-
-Data Structures & Algorithms • Linear Algebra • Probability & Statistics • Machine Learning • Deep Learning • NLP • Computer Vision • RAG • AI Agents • Git & GitHub • Cloud Fundamentals
-
-### 📸 Creative side — Photography & Visual Design
-
-<div align="center">
-
-![Creative interests](https://img.shields.io/badge/Photography-Visual%20Storytelling-183153?style=for-the-badge&logo=adobe&logoColor=white)
-![Creative interests](https://img.shields.io/badge/Photo%20Editing-Creative%20Practice-0B7285?style=for-the-badge)
-![Creative interests](https://img.shields.io/badge/Graphic%20Design-Exploring-1D4ED8?style=for-the-badge)
-
-</div>
-
-I enjoy composing photographs, editing images, and exploring visual design. My creative work complements my interest in technology, and I aim to improve both through practice and projects.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -132,60 +160,60 @@ I enjoy composing photographs, editing images, and exploring visual design. My c
 
 <div align="center">
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo7baker&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050B1A&title_color=38BDF8&text_color=CBD5E1&icon_color=22D3EE)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mo7baker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF"/>
 
-![Most used public repository languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo7baker&layout=compact&hide_border=true&theme=tokyonight&bg_color=050B1A&title_color=38BDF8&text_color=CBD5E1)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7baker&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"/>
 
-![Contribution streak](https://streak-stats.demolab.com/?user=mo7baker&theme=tokyonight&hide_border=true&background=050B1A&ring=38BDF8&fire=22D3EE&currStreakLabel=CBD5E1)
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=mo7baker&theme=github-dark-blue&hide_border=true&background=0D1117"/>
 
 </div>
 
-> These cards use third-party services. If a card is blank, the service may be rate-limited or temporarily unavailable. Language cards describe repositories, not skill level.
-
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=mo7baker&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4)
+<img src="https://github-profile-trophy.vercel.app/?username=mo7baker&theme=algolia&no-frame=true&no-bg=true&margin-w=10" width="100%"/>
 
 </div>
 
-> Trophies appear only when the external service is working and qualifying activity is available.
-
 ---
 
-## 🚀 Projects & Progress
+## 🌐 Connect With Me
 
-I am at the beginning of my engineering journey. I will publish coursework-inspired practice projects and original experiments as I complete them.
+<div align="center">
 
-| Project idea | Purpose | Status |
-|:--|:--|:--|
-| Java Fundamentals | Practice variables, conditionals, loops and methods | Planned |
-| Python Learning Journal | Document basic scripts and exercises | Planned |
-| Calculus with Code | Visualize functions and mathematical concepts | Planned |
-| First AI Mini-Project | Apply concepts after building the required foundations | Future goal |
+<a href="https://github.com/mo7baker">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-*This section will be updated with real repository links once projects are published.*
+<a href="https://www.linkedin.com/in/mohammed-baker-abu-salah-07ba92412">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://www.instagram.com/mo7baker/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-## 🎯 Current Goals
-
-- [ ] Build confidence with Java fundamentals.
-- [ ] Learn Python from scratch and publish small programs.
-- [ ] Strengthen calculus, physics, and problem-solving skills.
-- [ ] Learn Git and GitHub through real usage.
-- [ ] Build a small, documented portfolio of honest projects.
-- [ ] Develop technical English and communication skills.
+</div>
 
 ---
 
 <div align="center">
 
-**⚡ Learning publicly • Building consistently • Growing with purpose ⚡**
+### 💎 My Philosophy
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0B1129,50:0369A1,100:22D3EE)
+**"The future is not something we wait for. It is something we build."**
+
+<br/>
+
+<sub>Crafted with passion by Mohammed Baker Abu Salah</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0A3B75,100:2563EB&height=110&section=footer" width="100%"/>
 
 </div>
