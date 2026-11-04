@@ -1,0 +1,30 @@
+name: Update GitHub Activity Graph
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate truthful public-activity SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_activity.py
+      - name: Commit metrics only when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/assets/github-activity.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh public GitHub activity graph"
+            git push
+          fi

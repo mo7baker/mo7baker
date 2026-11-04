@@ -1,0 +1,61 @@
+{
+  "note": "Set done to true ONLY when you genuinely complete the milestone. The site derives its meters from these values.",
+  "years": [
+    {
+      "year": "YEAR 01 · 2026–27",
+      "name": "Build the Foundation",
+      "summary": "Programming, mathematics and disciplined engineering habits.",
+      "status": "CURRENT",
+      "tasks": [
+        {"title": "Java fundamentals & OOP", "done": false},
+        {"title": "Python programming basics", "done": false},
+        {"title": "Git, GitHub & version control", "done": false},
+        {"title": "Calculus & linear algebra", "done": false},
+        {"title": "Algorithms & problem solving", "done": false},
+        {"title": "Introductory statistics & SQL", "done": false}
+      ]
+    },
+    {
+      "year": "YEAR 02 · 2027–28",
+      "name": "Understand the Data",
+      "summary": "Data science workflow, model building and evaluation.",
+      "status": "NEXT",
+      "tasks": [
+        {"title": "NumPy, Pandas & Jupyter", "done": false},
+        {"title": "Data cleaning & visualization", "done": false},
+        {"title": "Probability & statistics", "done": false},
+        {"title": "Scikit-learn fundamentals", "done": false},
+        {"title": "Regression & classification", "done": false},
+        {"title": "Cross-validation & ML metrics", "done": false}
+      ]
+    },
+    {
+      "year": "YEAR 03 · 2028–29",
+      "name": "Learn Deep Intelligence",
+      "summary": "Neural networks, perception and modern generative AI.",
+      "status": "FUTURE",
+      "tasks": [
+        {"title": "PyTorch & neural networks", "done": false},
+        {"title": "Deep learning & transformers", "done": false},
+        {"title": "Computer vision", "done": false},
+        {"title": "NLP & large language models", "done": false},
+        {"title": "Embeddings & vector databases", "done": false},
+        {"title": "Retrieval-augmented generation", "done": false}
+      ]
+    },
+    {
+      "year": "YEAR 04 · 2029–30",
+      "name": "Ship Real AI Systems",
+      "summary": "Production-grade AI products and a strong professional portfolio.",
+      "status": "FUTURE",
+      "tasks": [
+        {"title": "AI agents & agent workflows", "done": false},
+        {"title": "FastAPI & serving models", "done": false},
+        {"title": "Docker & cloud fundamentals", "done": false},
+        {"title": "MLOps, testing & monitoring", "done": false},
+        {"title": "Evaluation, privacy & AI safety", "done": false},
+        {"title": "End-to-end capstone project", "done": false}
+      ]
+    }
+  ]
+}
