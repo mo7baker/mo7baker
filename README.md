@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Mohammed Baker - AI Engineering Student" />
+<img src="banner (1).png" width="100%" alt="Mohammed Baker - AI Engineering Student" />
 
 <a href="https://github.com/mo7baker">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4FF&center=true&vCenter=true&width=700&lines=Building+AI+for+a+better+world...;From+Curiosity+to+Global+Impact;AI+Engineering+Student" alt="Typing SVG" />
